@@ -1,3 +1,3 @@
 ﻿# Sample Package
 
-This is a cool sample package.
+This is text pulled from our package's readme file!
