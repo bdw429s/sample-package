@@ -1,7 +1,7 @@
 {
-    "name":"My Package",
+    "name":"Sample package",
     "version":"0.1.0",
-    "author":"",
+    "author":"Brad Wood",
     "location":"bdw429s/sample-package",
     "directory":"",
     "createPackageDirectory":true,
@@ -13,15 +13,13 @@
         "URL":""
     },
     "bugs":"",
-    "slug":"my-package",
-    "shortDescription":"A sweet package",
+    "slug":"sample-package",
+    "shortDescription":"",
     "description":"",
     "instructions":"",
     "changelog":"",
     "type":"projects",
-    "keywords":[
-        
-    ],
+    "keywords":"",
     "private":false,
     "engines":[
         {
@@ -51,9 +49,7 @@
         
     },
     "ignore":[
-        "**/.*",
-        "test",
-        "tests"
+        
     ],
     "testbox":{
         "runner":[
